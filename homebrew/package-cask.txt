@@ -1,0 +1,6 @@
+atom
+cheatsheet
+firefox
+google-chrome
+skype
+slack

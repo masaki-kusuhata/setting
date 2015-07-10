@@ -1,0 +1,3 @@
+brew-cask
+git
+nodebrew
